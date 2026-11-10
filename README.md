@@ -25,11 +25,7 @@ My portfolio is my real desk, rebuilt in 3D. Walk around the room, click the mon
 
 **Featured**
 
-| Project | |
-|---|---|
-| [🏠 3D Portfolio](https://github.com/Gars0128/arseni-portfolio-3d) | My desk in React Three Fiber — projects, CV and a mini-game live on the monitor. [Live ↗](https://arseni-portfolio-3d.vercel.app) |
-| [🎫 Agentic Ticket Workflow](https://github.com/Gars0128/Agentic-Ticket-Workflow) | LLM agent that resolves support tickets inside a Temporal workflow — business rules and human approval have the final word. |
-| [🚲 CityWheels Help-Desk Agent](https://github.com/Gars0128/citywheels-help-desk-agent) | Python AI help-desk agent with tool calling, tests and evaluation. |
+🏠 **[3D Portfolio](https://github.com/Gars0128/arseni-portfolio-3d)** — my desk in React Three Fiber: projects, CV and a mini-game live on the monitor. [Open it live ↗](https://arseni-portfolio-3d.vercel.app)
 
 **Stack**
 
