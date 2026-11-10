@@ -8,7 +8,7 @@
 
 **Full-Stack AI Engineer** · C#/.NET · React/TypeScript · LLM agents & automation · Poznań, Poland
 
-<a href="https://arseni-portfolio-3d.vercel.app"><img src="https://img.shields.io/badge/▶_Open_my_3D_portfolio-ff115e?style=for-the-badge&logoColor=white" alt="Open my 3D portfolio" /></a>
+<a href="https://arseni-portfolio-3d.vercel.app"><img src="https://img.shields.io/badge/Open_my_3D_portfolio-ff115e?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Open my 3D portfolio" /></a>
 <a href="https://linkedin.com/in/arsenialioshyn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
